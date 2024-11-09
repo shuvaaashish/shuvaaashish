@@ -29,7 +29,7 @@ I am learning and working with these technologies:
 
 **Streak Stats:**
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shuvaaashish&theme=dark&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shuvaaashish&theme=dark&hide_border=false)
 
 **Most Used Languages:**
 
