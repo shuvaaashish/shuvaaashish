@@ -39,9 +39,9 @@ I am learning and working with these technologies:
 
 ### 📫 **How to Reach Me:**
 
-- **Facebook:** [Shuva Aashish Gyawali](https://facebook.com/shuvaaashis.gyawali)
-- **Instagram:** [@shuva_aashish9](https://instagram.com/shuva_aashish9/)
-- **Email:** Feel free to email me if you'd like to collaborate or chat about anything tech-related!
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shuvaaashis.gyawali)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuva_aashish9/)
+
 
 ---
 
